@@ -1,0 +1,14 @@
+{
+  "name": "radio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ffmpeg-stream": "^0.7.0",
+    "web-audio-api": "^0.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.33"
+  }
+}
